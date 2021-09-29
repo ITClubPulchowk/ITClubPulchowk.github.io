@@ -2,9 +2,10 @@ name: Update repo list
 
 on:
   push:
-    branches: [ main ]
+    branches: 
+      - main
   schedule:
-    - cron "* */24 * * *"
+    - cron: "0 */12 * * *" # run every 12 hours
 
 jobs:
   update:
