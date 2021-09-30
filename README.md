@@ -63,7 +63,7 @@ Webpage: [https://it-club-pulchowk.github.io/076batch-project-list](https://it-c
 
 ⭐: 2
 
-**List of college projects by undergraduates from 077 Batch, Pulchowk Campus. **
+**List of college projects by undergraduates from 077 Batch, Pulchowk Campus.**
 
 Repo: [https://github.com/IT-Club-Pulchowk/077batch-project-list](https://github.com/IT-Club-Pulchowk/077batch-project-list)
 
@@ -118,7 +118,7 @@ Webpage: [https://it-club-pulchowk.github.io/Git-Workshop](https://it-club-pulch
 
 ⭐: 5
 
-**None**
+****
 
 Repo: [https://github.com/IT-Club-Pulchowk/Hikana](https://github.com/IT-Club-Pulchowk/Hikana)
 
