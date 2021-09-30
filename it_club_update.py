@@ -8,7 +8,7 @@ WEBPAGE_BASE_URL = "https://it-club-pulchowk.github.io/"
 AVOID_REPOS = "IT-Club-Pulchowk.github.io"
 
 README_BASE = """
-<img src="https://github.com/IT-Club-Pulchowk/resourcehub/raw/main/Logos/512noShadow.png" width=80>
+<img src="assets/images/logo-128.png">
 
 # IT Club, Pulchowk
 **GitHub Organization for IT Club, Pulchowk**
