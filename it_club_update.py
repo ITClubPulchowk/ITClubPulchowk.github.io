@@ -32,7 +32,7 @@ README_BODY = ""
 
 def update_content(name, description, stargazers_count, repo_url, webpage_url):
     global README_BODY
-    description = "" if description is None else description.strip()
+    description = "  " if description is None else description.strip()
     content = textwrap.dedent(
         f"""\
      ## {name}
