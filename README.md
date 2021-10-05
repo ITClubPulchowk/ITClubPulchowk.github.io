@@ -103,6 +103,17 @@ Repo: [https://github.com/IT-Club-Pulchowk/campus-scripts](https://github.com/IT
 Webpage: [https://it-club-pulchowk.github.io/campus-scripts](https://it-club-pulchowk.github.io/campus-scripts)
 
 
+## Cest
+
+⭐: 0
+
+**C Build Test**
+
+Repo: [https://github.com/IT-Club-Pulchowk/Cest](https://github.com/IT-Club-Pulchowk/Cest)
+
+Webpage: [https://it-club-pulchowk.github.io/Cest](https://it-club-pulchowk.github.io/Cest)
+
+
 ## csvParserGenerator
 
 ⭐: 0
