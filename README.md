@@ -103,17 +103,6 @@ Repo: [https://github.com/IT-Club-Pulchowk/campus-scripts](https://github.com/IT
 Webpage: [https://it-club-pulchowk.github.io/campus-scripts](https://it-club-pulchowk.github.io/campus-scripts)
 
 
-## Cest
-
-⭐: 0
-
-**C Build Test**
-
-Repo: [https://github.com/IT-Club-Pulchowk/Cest](https://github.com/IT-Club-Pulchowk/Cest)
-
-Webpage: [https://it-club-pulchowk.github.io/Cest](https://it-club-pulchowk.github.io/Cest)
-
-
 ## csvParserGenerator
 
 ⭐: 0
@@ -156,6 +145,17 @@ Webpage: [https://it-club-pulchowk.github.io/Hikana](https://it-club-pulchowk.gi
 Repo: [https://github.com/IT-Club-Pulchowk/laptop-guide](https://github.com/IT-Club-Pulchowk/laptop-guide)
 
 Webpage: [https://it-club-pulchowk.github.io/laptop-guide](https://it-club-pulchowk.github.io/laptop-guide)
+
+
+## muda
+
+⭐: 0
+
+**C Build Test**
+
+Repo: [https://github.com/IT-Club-Pulchowk/muda](https://github.com/IT-Club-Pulchowk/muda)
+
+Webpage: [https://it-club-pulchowk.github.io/muda](https://it-club-pulchowk.github.io/muda)
 
 
 ## resourcehub
