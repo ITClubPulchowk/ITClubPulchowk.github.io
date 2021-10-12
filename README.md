@@ -103,15 +103,15 @@ Repo: [https://github.com/IT-Club-Pulchowk/campus-scripts](https://github.com/IT
 Webpage: [https://it-club-pulchowk.github.io/campus-scripts](https://it-club-pulchowk.github.io/campus-scripts)
 
 
-## csvParserGenerator
+## csvParser
 
 ⭐: 0
 
 **  **
 
-Repo: [https://github.com/IT-Club-Pulchowk/csvParserGenerator](https://github.com/IT-Club-Pulchowk/csvParserGenerator)
+Repo: [https://github.com/IT-Club-Pulchowk/csvParser](https://github.com/IT-Club-Pulchowk/csvParser)
 
-Webpage: [https://it-club-pulchowk.github.io/csvParserGenerator](https://it-club-pulchowk.github.io/csvParserGenerator)
+Webpage: [https://it-club-pulchowk.github.io/csvParser](https://it-club-pulchowk.github.io/csvParser)
 
 
 ## Git-Workshop
