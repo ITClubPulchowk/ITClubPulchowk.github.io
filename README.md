@@ -107,7 +107,7 @@ Webpage: [https://it-club-pulchowk.github.io/campus-scripts](https://it-club-pul
 
 ⭐: 0
 
-**  **
+**A single header C library for parsing and deserializing CSV buffers**
 
 Repo: [https://github.com/IT-Club-Pulchowk/csvParser](https://github.com/IT-Club-Pulchowk/csvParser)
 
