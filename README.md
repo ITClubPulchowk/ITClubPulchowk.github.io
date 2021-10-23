@@ -70,6 +70,17 @@ Repo: [https://github.com/IT-Club-Pulchowk/077batch-project-list](https://github
 Webpage: [https://it-club-pulchowk.github.io/077batch-project-list](https://it-club-pulchowk.github.io/077batch-project-list)
 
 
+## C-is-cute
+
+⭐: 0
+
+**  **
+
+Repo: [https://github.com/IT-Club-Pulchowk/C-is-cute](https://github.com/IT-Club-Pulchowk/C-is-cute)
+
+Webpage: [https://it-club-pulchowk.github.io/C-is-cute](https://it-club-pulchowk.github.io/C-is-cute)
+
+
 ## C-Programming-Guide
 
 ⭐: 25
