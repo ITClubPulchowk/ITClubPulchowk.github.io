@@ -72,7 +72,7 @@ Webpage: [https://it-club-pulchowk.github.io/077batch-project-list](https://it-c
 
 ## Advance-C-Workshop
 
-⭐: 10
+⭐: 11
 
 **  **
 
@@ -94,7 +94,7 @@ Webpage: [https://it-club-pulchowk.github.io/C-is-cute](https://it-club-pulchowk
 
 ## C-Programming-Guide
 
-⭐: 25
+⭐: 26
 
 **A guide for C Programming from the perspective of a Pulchowk student (IOE).**
 
