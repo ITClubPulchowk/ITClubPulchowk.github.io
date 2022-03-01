@@ -6,7 +6,7 @@
 
 📍 Pulchowk Campus, IOE, Nepal
 
-Email: itclub@pcampus.edu.np
+Email: [itclub@pcampus.edu.np](mailto:itclub@pcampus.edu.np)
 
 Discord: [Join our server](https://discord.gg/YBMhU59P3p)
 
