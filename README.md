@@ -162,7 +162,7 @@ Webpage: [https://it-club-pulchowk.github.io/Git-Workshop](https://it-club-pulch
 
 ## Hikana
 
-⭐: 5
+⭐: 6
 
 **The official bot of IT-CLUB-Pulchowk**
 
