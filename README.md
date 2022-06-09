@@ -72,17 +72,6 @@ Repo: [https://github.com/IT-Club-Pulchowk/077batch-project-list](https://github
 Webpage: [https://it-club-pulchowk.github.io/077batch-project-list](https://it-club-pulchowk.github.io/077batch-project-list)
 
 
-## A380-Modeling--A-Computer-Graphics-Project
-
-⭐: 0
-
-**5th Sem Computer Graphics Project  using pyOpenGL, pyGLFW, pyWavefront, PIL.**
-
-Repo: [https://github.com/IT-Club-Pulchowk/A380-Modeling--A-Computer-Graphics-Project](https://github.com/IT-Club-Pulchowk/A380-Modeling--A-Computer-Graphics-Project)
-
-Webpage: [https://it-club-pulchowk.github.io/A380-Modeling--A-Computer-Graphics-Project](https://it-club-pulchowk.github.io/A380-Modeling--A-Computer-Graphics-Project)
-
-
 ## Advance-C-Workshop
 
 ⭐: 12
