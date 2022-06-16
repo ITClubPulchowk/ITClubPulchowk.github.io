@@ -184,7 +184,7 @@ Webpage: [https://it-club-pulchowk.github.io/muda](https://it-club-pulchowk.gith
 
 ## resourcehub
 
-⭐: 1
+⭐: 2
 
 **Collection of useful resources.**
 
