@@ -19,7 +19,7 @@ Twitter: [@ITClubPulchowk](https://twitter.com/ITClubPulchowk)
 
 ## 073batch-project-list
 
-⭐: 5
+⭐: 6
 
 **List of college projects by undergraduates from 073 Batch, Pulchowk Campus.**
 
@@ -30,7 +30,7 @@ Webpage: [https://it-club-pulchowk.github.io/073batch-project-list](https://it-c
 
 ## 074batch-project-list
 
-⭐: 3
+⭐: 4
 
 **List of college projects by undergraduates from 074 Batch, Pulchowk Campus.**
 
@@ -52,7 +52,7 @@ Webpage: [https://it-club-pulchowk.github.io/075batch-project-list](https://it-c
 
 ## 076batch-project-list
 
-⭐: 7
+⭐: 8
 
 **List of college projects by undergraduates from 076 Batch, Pulchowk Campus.**
 
@@ -63,7 +63,7 @@ Webpage: [https://it-club-pulchowk.github.io/076batch-project-list](https://it-c
 
 ## 077batch-project-list
 
-⭐: 2
+⭐: 3
 
 **List of college projects by undergraduates from 077 Batch, Pulchowk Campus.**
 
@@ -107,7 +107,7 @@ Webpage: [https://it-club-pulchowk.github.io/C-Programming-Guide](https://it-clu
 
 ## campus-links
 
-⭐: 4
+⭐: 5
 
 **Collection of links/resources related to Pulchowk Campus, IOE.**
 
@@ -140,7 +140,7 @@ Webpage: [https://it-club-pulchowk.github.io/csvParser](https://it-club-pulchowk
 
 ## Git-Workshop
 
-⭐: 6
+⭐: 7
 
 **Assignments and resources for "Version Control with Git Workshop 2021".**
 
@@ -184,7 +184,7 @@ Webpage: [https://it-club-pulchowk.github.io/muda](https://it-club-pulchowk.gith
 
 ## resourcehub
 
-⭐: 2
+⭐: 3
 
 **Collection of useful resources.**
 
