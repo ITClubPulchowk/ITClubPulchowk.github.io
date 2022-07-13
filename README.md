@@ -149,6 +149,17 @@ Repo: [https://github.com/IT-Club-Pulchowk/Git-Workshop](https://github.com/IT-C
 Webpage: [https://it-club-pulchowk.github.io/Git-Workshop](https://it-club-pulchowk.github.io/Git-Workshop)
 
 
+## Git-Workshop-2022
+
+⭐: 0
+
+**Git Workshop 2022**
+
+Repo: [https://github.com/IT-Club-Pulchowk/Git-Workshop-2022](https://github.com/IT-Club-Pulchowk/Git-Workshop-2022)
+
+Webpage: [https://it-club-pulchowk.github.io/Git-Workshop-2022](https://it-club-pulchowk.github.io/Git-Workshop-2022)
+
+
 ## Hikana
 
 ⭐: 6
