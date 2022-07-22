@@ -151,7 +151,7 @@ Webpage: [https://it-club-pulchowk.github.io/Git-Workshop](https://it-club-pulch
 
 ## Git-Workshop-2022
 
-⭐: 1
+⭐: 2
 
 **Git Workshop 2022**
 
