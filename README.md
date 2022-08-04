@@ -118,7 +118,7 @@ Webpage: [https://it-club-pulchowk.github.io/campus-links](https://it-club-pulch
 
 ## campus-scripts
 
-⭐: 10
+⭐: 9
 
 **Useful scripts, mini-programs and tools listing frequently required by an IOE student.**
 
