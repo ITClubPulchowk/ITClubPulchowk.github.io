@@ -140,7 +140,7 @@ Webpage: [https://it-club-pulchowk.github.io/csvParser](https://it-club-pulchowk
 
 ## Git-Workshop
 
-⭐: 7
+⭐: 6
 
 **Assignments and resources for "Version Control with Git Workshop 2021".**
 
