@@ -36,6 +36,6 @@ jobs:
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
-          git diff-index --quiet HEAD || git commit -m "[skip ci] Save result of action"
+          git diff-index --quiet HEAD || git commit -m "[update] Save updated repo list"
           git fetch
           git push
