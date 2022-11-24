@@ -13,8 +13,8 @@ Discord: [Join our server](https://discord.gg/DpYZj3pNAv)
 Twitter: [@ITClubPulchowk](https://twitter.com/ITClubPulchowk)
 
 
-[![Update repo list](https://github.com/IT-Club-Pulchowk/IT-Club-Pulchowk.github.io/actions/workflows/update.yml/badge.svg)](https://github.com/IT-Club-Pulchowk/IT-Club-Pulchowk.github.io/actions/workflows/update.yml)
-[![pages-build-deployment](https://github.com/IT-Club-Pulchowk/IT-Club-Pulchowk.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/IT-Club-Pulchowk/IT-Club-Pulchowk.github.io/actions/workflows/pages/pages-build-deployment)
+[![Update repo list](https://github.com/ITClubPulchowk/ITClubPulchowk.github.io/actions/workflows/update.yml/badge.svg)](https://github.com/ITClubPulchowk/ITClubPulchowk.github.io/actions/workflows/update.yml)
+[![pages-build-deployment](https://github.com/ITClubPulchowk/ITClubPulchowk.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ITClubPulchowk/ITClubPulchowk.github.io/actions/workflows/pages/pages-build-deployment)
 
 ---
 
@@ -27,9 +27,9 @@ Twitter: [@ITClubPulchowk](https://twitter.com/ITClubPulchowk)
 
 **List of college projects by undergraduates from 073 Batch, Pulchowk Campus.**
 
-Repo: [https://github.com/IT-Club-Pulchowk/073batch-project-list](https://github.com/IT-Club-Pulchowk/073batch-project-list)
+Repo: [https://github.com/ITClubPulchowk/073batch-project-list](https://github.com/ITClubPulchowk/073batch-project-list)
 
-Webpage: [https://it-club-pulchowk.github.io/073batch-project-list](https://it-club-pulchowk.github.io/073batch-project-list)
+Webpage: [https://itclubpulchowk.github.io/073batch-project-list](https://itclubpulchowk.github.io/073batch-project-list)
 
 
 ## 074batch-project-list
@@ -38,9 +38,9 @@ Webpage: [https://it-club-pulchowk.github.io/073batch-project-list](https://it-c
 
 **List of college projects by undergraduates from 074 Batch, Pulchowk Campus.**
 
-Repo: [https://github.com/IT-Club-Pulchowk/074batch-project-list](https://github.com/IT-Club-Pulchowk/074batch-project-list)
+Repo: [https://github.com/ITClubPulchowk/074batch-project-list](https://github.com/ITClubPulchowk/074batch-project-list)
 
-Webpage: [https://it-club-pulchowk.github.io/074batch-project-list](https://it-club-pulchowk.github.io/074batch-project-list)
+Webpage: [https://itclubpulchowk.github.io/074batch-project-list](https://itclubpulchowk.github.io/074batch-project-list)
 
 
 ## 075batch-project-list
@@ -49,9 +49,9 @@ Webpage: [https://it-club-pulchowk.github.io/074batch-project-list](https://it-c
 
 **List of college projects by undergraduates from 075 Batch, Pulchowk Campus.**
 
-Repo: [https://github.com/IT-Club-Pulchowk/075batch-project-list](https://github.com/IT-Club-Pulchowk/075batch-project-list)
+Repo: [https://github.com/ITClubPulchowk/075batch-project-list](https://github.com/ITClubPulchowk/075batch-project-list)
 
-Webpage: [https://it-club-pulchowk.github.io/075batch-project-list](https://it-club-pulchowk.github.io/075batch-project-list)
+Webpage: [https://itclubpulchowk.github.io/075batch-project-list](https://itclubpulchowk.github.io/075batch-project-list)
 
 
 ## 076batch-project-list
@@ -60,9 +60,9 @@ Webpage: [https://it-club-pulchowk.github.io/075batch-project-list](https://it-c
 
 **List of college projects by undergraduates from 076 Batch, Pulchowk Campus.**
 
-Repo: [https://github.com/IT-Club-Pulchowk/076batch-project-list](https://github.com/IT-Club-Pulchowk/076batch-project-list)
+Repo: [https://github.com/ITClubPulchowk/076batch-project-list](https://github.com/ITClubPulchowk/076batch-project-list)
 
-Webpage: [https://it-club-pulchowk.github.io/076batch-project-list](https://it-club-pulchowk.github.io/076batch-project-list)
+Webpage: [https://itclubpulchowk.github.io/076batch-project-list](https://itclubpulchowk.github.io/076batch-project-list)
 
 
 ## 077batch-project-list
@@ -71,9 +71,9 @@ Webpage: [https://it-club-pulchowk.github.io/076batch-project-list](https://it-c
 
 **List of college projects by undergraduates from 077 Batch, Pulchowk Campus.**
 
-Repo: [https://github.com/IT-Club-Pulchowk/077batch-project-list](https://github.com/IT-Club-Pulchowk/077batch-project-list)
+Repo: [https://github.com/ITClubPulchowk/077batch-project-list](https://github.com/ITClubPulchowk/077batch-project-list)
 
-Webpage: [https://it-club-pulchowk.github.io/077batch-project-list](https://it-club-pulchowk.github.io/077batch-project-list)
+Webpage: [https://itclubpulchowk.github.io/077batch-project-list](https://itclubpulchowk.github.io/077batch-project-list)
 
 
 ## Advance-C-Workshop
@@ -82,9 +82,9 @@ Webpage: [https://it-club-pulchowk.github.io/077batch-project-list](https://it-c
 
 **  **
 
-Repo: [https://github.com/IT-Club-Pulchowk/Advance-C-Workshop](https://github.com/IT-Club-Pulchowk/Advance-C-Workshop)
+Repo: [https://github.com/ITClubPulchowk/Advance-C-Workshop](https://github.com/ITClubPulchowk/Advance-C-Workshop)
 
-Webpage: [https://it-club-pulchowk.github.io/Advance-C-Workshop](https://it-club-pulchowk.github.io/Advance-C-Workshop)
+Webpage: [https://itclubpulchowk.github.io/Advance-C-Workshop](https://itclubpulchowk.github.io/Advance-C-Workshop)
 
 
 ## C-is-cute
@@ -93,9 +93,9 @@ Webpage: [https://it-club-pulchowk.github.io/Advance-C-Workshop](https://it-club
 
 **  **
 
-Repo: [https://github.com/IT-Club-Pulchowk/C-is-cute](https://github.com/IT-Club-Pulchowk/C-is-cute)
+Repo: [https://github.com/ITClubPulchowk/C-is-cute](https://github.com/ITClubPulchowk/C-is-cute)
 
-Webpage: [https://it-club-pulchowk.github.io/C-is-cute](https://it-club-pulchowk.github.io/C-is-cute)
+Webpage: [https://itclubpulchowk.github.io/C-is-cute](https://itclubpulchowk.github.io/C-is-cute)
 
 
 ## C-Programming-Guide
@@ -104,20 +104,20 @@ Webpage: [https://it-club-pulchowk.github.io/C-is-cute](https://it-club-pulchowk
 
 **A guide for C Programming from the perspective of a Pulchowk student (IOE).**
 
-Repo: [https://github.com/IT-Club-Pulchowk/C-Programming-Guide](https://github.com/IT-Club-Pulchowk/C-Programming-Guide)
+Repo: [https://github.com/ITClubPulchowk/C-Programming-Guide](https://github.com/ITClubPulchowk/C-Programming-Guide)
 
-Webpage: [https://it-club-pulchowk.github.io/C-Programming-Guide](https://it-club-pulchowk.github.io/C-Programming-Guide)
+Webpage: [https://itclubpulchowk.github.io/C-Programming-Guide](https://itclubpulchowk.github.io/C-Programming-Guide)
 
 
 ## campus-links
 
-⭐: 5
+⭐: 4
 
 **Collection of links/resources related to Pulchowk Campus, IOE.**
 
-Repo: [https://github.com/IT-Club-Pulchowk/campus-links](https://github.com/IT-Club-Pulchowk/campus-links)
+Repo: [https://github.com/ITClubPulchowk/campus-links](https://github.com/ITClubPulchowk/campus-links)
 
-Webpage: [https://it-club-pulchowk.github.io/campus-links](https://it-club-pulchowk.github.io/campus-links)
+Webpage: [https://itclubpulchowk.github.io/campus-links](https://itclubpulchowk.github.io/campus-links)
 
 
 ## campus-scripts
@@ -126,9 +126,9 @@ Webpage: [https://it-club-pulchowk.github.io/campus-links](https://it-club-pulch
 
 **Useful scripts, mini-programs and tools listing frequently required by an IOE student.**
 
-Repo: [https://github.com/IT-Club-Pulchowk/campus-scripts](https://github.com/IT-Club-Pulchowk/campus-scripts)
+Repo: [https://github.com/ITClubPulchowk/campus-scripts](https://github.com/ITClubPulchowk/campus-scripts)
 
-Webpage: [https://it-club-pulchowk.github.io/campus-scripts](https://it-club-pulchowk.github.io/campus-scripts)
+Webpage: [https://itclubpulchowk.github.io/campus-scripts](https://itclubpulchowk.github.io/campus-scripts)
 
 
 ## csvParser
@@ -137,20 +137,20 @@ Webpage: [https://it-club-pulchowk.github.io/campus-scripts](https://it-club-pul
 
 **A single header C library for parsing and deserializing CSV buffers**
 
-Repo: [https://github.com/IT-Club-Pulchowk/csvParser](https://github.com/IT-Club-Pulchowk/csvParser)
+Repo: [https://github.com/ITClubPulchowk/csvParser](https://github.com/ITClubPulchowk/csvParser)
 
-Webpage: [https://it-club-pulchowk.github.io/csvParser](https://it-club-pulchowk.github.io/csvParser)
+Webpage: [https://itclubpulchowk.github.io/csvParser](https://itclubpulchowk.github.io/csvParser)
 
 
 ## Git-Workshop
 
-⭐: 6
+⭐: 7
 
 **Assignments and resources for "Version Control with Git Workshop 2021".**
 
-Repo: [https://github.com/IT-Club-Pulchowk/Git-Workshop](https://github.com/IT-Club-Pulchowk/Git-Workshop)
+Repo: [https://github.com/ITClubPulchowk/Git-Workshop](https://github.com/ITClubPulchowk/Git-Workshop)
 
-Webpage: [https://it-club-pulchowk.github.io/Git-Workshop](https://it-club-pulchowk.github.io/Git-Workshop)
+Webpage: [https://itclubpulchowk.github.io/Git-Workshop](https://itclubpulchowk.github.io/Git-Workshop)
 
 
 ## Git-Workshop-2022
@@ -159,9 +159,9 @@ Webpage: [https://it-club-pulchowk.github.io/Git-Workshop](https://it-club-pulch
 
 **Git Workshop 2022**
 
-Repo: [https://github.com/IT-Club-Pulchowk/Git-Workshop-2022](https://github.com/IT-Club-Pulchowk/Git-Workshop-2022)
+Repo: [https://github.com/ITClubPulchowk/Git-Workshop-2022](https://github.com/ITClubPulchowk/Git-Workshop-2022)
 
-Webpage: [https://it-club-pulchowk.github.io/Git-Workshop-2022](https://it-club-pulchowk.github.io/Git-Workshop-2022)
+Webpage: [https://itclubpulchowk.github.io/Git-Workshop-2022](https://itclubpulchowk.github.io/Git-Workshop-2022)
 
 
 ## Hikana
@@ -170,9 +170,9 @@ Webpage: [https://it-club-pulchowk.github.io/Git-Workshop-2022](https://it-club-
 
 **The official bot of IT-CLUB-Pulchowk**
 
-Repo: [https://github.com/IT-Club-Pulchowk/Hikana](https://github.com/IT-Club-Pulchowk/Hikana)
+Repo: [https://github.com/ITClubPulchowk/Hikana](https://github.com/ITClubPulchowk/Hikana)
 
-Webpage: [https://it-club-pulchowk.github.io/Hikana](https://it-club-pulchowk.github.io/Hikana)
+Webpage: [https://itclubpulchowk.github.io/Hikana](https://itclubpulchowk.github.io/Hikana)
 
 
 ## laptop-guide
@@ -181,9 +181,9 @@ Webpage: [https://it-club-pulchowk.github.io/Hikana](https://it-club-pulchowk.gi
 
 **Collection of laptop reviews and recommendations we gathered on our Discord server.**
 
-Repo: [https://github.com/IT-Club-Pulchowk/laptop-guide](https://github.com/IT-Club-Pulchowk/laptop-guide)
+Repo: [https://github.com/ITClubPulchowk/laptop-guide](https://github.com/ITClubPulchowk/laptop-guide)
 
-Webpage: [https://it-club-pulchowk.github.io/laptop-guide](https://it-club-pulchowk.github.io/laptop-guide)
+Webpage: [https://itclubpulchowk.github.io/laptop-guide](https://itclubpulchowk.github.io/laptop-guide)
 
 
 ## muda
@@ -192,9 +192,9 @@ Webpage: [https://it-club-pulchowk.github.io/laptop-guide](https://it-club-pulch
 
 **C Build Test**
 
-Repo: [https://github.com/IT-Club-Pulchowk/muda](https://github.com/IT-Club-Pulchowk/muda)
+Repo: [https://github.com/ITClubPulchowk/muda](https://github.com/ITClubPulchowk/muda)
 
-Webpage: [https://it-club-pulchowk.github.io/muda](https://it-club-pulchowk.github.io/muda)
+Webpage: [https://itclubpulchowk.github.io/muda](https://itclubpulchowk.github.io/muda)
 
 
 ## resourcehub
@@ -203,8 +203,8 @@ Webpage: [https://it-club-pulchowk.github.io/muda](https://it-club-pulchowk.gith
 
 **Collection of useful resources.**
 
-Repo: [https://github.com/IT-Club-Pulchowk/resourcehub](https://github.com/IT-Club-Pulchowk/resourcehub)
+Repo: [https://github.com/ITClubPulchowk/resourcehub](https://github.com/ITClubPulchowk/resourcehub)
 
-Webpage: [https://it-club-pulchowk.github.io/resourcehub](https://it-club-pulchowk.github.io/resourcehub)
+Webpage: [https://itclubpulchowk.github.io/resourcehub](https://itclubpulchowk.github.io/resourcehub)
 
 
