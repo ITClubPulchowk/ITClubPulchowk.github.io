@@ -1,11 +1,11 @@
 #!/bin/env python
 
-import requests
+import httpx
 import textwrap
 
-API_URL = "https://api.github.com/orgs/IT-Club-Pulchowk/repos?sort=name"
-WEBPAGE_BASE_URL = "https://it-club-pulchowk.github.io/"
-AVOID_REPOS = "IT-Club-Pulchowk.github.io"
+API_URL = "https://api.github.com/orgs/ITClubPulchowk/repos?sort=name"
+WEBPAGE_BASE_URL = "https://itclubpulchowk.github.io/"
+AVOID_REPOS = "ITClubPulchowk.github.io"
 
 README_BASE = """
 <img src="assets/images/logo-128.png">
@@ -22,8 +22,8 @@ Discord: [Join our server](https://discord.gg/DpYZj3pNAv)
 Twitter: [@ITClubPulchowk](https://twitter.com/ITClubPulchowk)
 
 
-[![Update repo list](https://github.com/IT-Club-Pulchowk/IT-Club-Pulchowk.github.io/actions/workflows/update.yml/badge.svg)](https://github.com/IT-Club-Pulchowk/IT-Club-Pulchowk.github.io/actions/workflows/update.yml)
-[![pages-build-deployment](https://github.com/IT-Club-Pulchowk/IT-Club-Pulchowk.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/IT-Club-Pulchowk/IT-Club-Pulchowk.github.io/actions/workflows/pages/pages-build-deployment)
+[![Update repo list](https://github.com/ITClubPulchowk/ITClubPulchowk.github.io/actions/workflows/update.yml/badge.svg)](https://github.com/ITClubPulchowk/ITClubPulchowk.github.io/actions/workflows/update.yml)
+[![pages-build-deployment](https://github.com/ITClubPulchowk/ITClubPulchowk.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/ITClubPulchowk/ITClubPulchowk.github.io/actions/workflows/pages/pages-build-deployment)
 
 ---
 
@@ -65,7 +65,7 @@ def save_file():
 
 
 def fetch_repos():
-    repos = requests.get(API_URL).json()
+    repos = httpx.get(API_URL).json()
 
     for repo in repos:
         name = repo["name"]
