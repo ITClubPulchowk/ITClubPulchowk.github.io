@@ -1,6 +1,6 @@
 #!/bin/env python
 
-import requests
+import httpx
 import textwrap
 
 API_URL = "https://api.github.com/orgs/ITClubPulchowk/repos?sort=name"
@@ -65,7 +65,7 @@ def save_file():
 
 
 def fetch_repos():
-    repos = requests.get(API_URL).json()
+    repos = httpx.get(API_URL).json()
 
     for repo in repos:
         name = repo["name"]
