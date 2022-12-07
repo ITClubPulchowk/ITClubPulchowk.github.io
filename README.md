@@ -87,6 +87,17 @@ Repo: [https://github.com/ITClubPulchowk/Advance-C-Workshop](https://github.com/
 Webpage: [https://itclubpulchowk.github.io/Advance-C-Workshop](https://itclubpulchowk.github.io/Advance-C-Workshop)
 
 
+## Advanced-C-Workshop-2022
+
+⭐: 5
+
+**Repo for the Advanced C Workshop 2022.**
+
+Repo: [https://github.com/ITClubPulchowk/Advanced-C-Workshop-2022](https://github.com/ITClubPulchowk/Advanced-C-Workshop-2022)
+
+Webpage: [https://itclubpulchowk.github.io/Advanced-C-Workshop-2022](https://itclubpulchowk.github.io/Advanced-C-Workshop-2022)
+
+
 ## C-is-cute
 
 ⭐: 0
@@ -166,7 +177,7 @@ Webpage: [https://itclubpulchowk.github.io/Git-Workshop-2022](https://itclubpulc
 
 ## Hikana
 
-⭐: 6
+⭐: 7
 
 **The official bot of IT-CLUB-Pulchowk**
 
