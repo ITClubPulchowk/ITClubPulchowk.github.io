@@ -89,7 +89,7 @@ Webpage: [https://itclubpulchowk.github.io/Advance-C-Workshop](https://itclubpul
 
 ## Advanced-C-Workshop-2022
 
-⭐: 5
+⭐: 6
 
 **Repo for the Advanced C Workshop 2022.**
 
