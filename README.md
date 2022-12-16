@@ -78,7 +78,7 @@ Webpage: [https://itclubpulchowk.github.io/077batch-project-list](https://itclub
 
 ## Advance-C-Workshop
 
-⭐: 11
+⭐: 12
 
 **  **
 
@@ -89,7 +89,7 @@ Webpage: [https://itclubpulchowk.github.io/Advance-C-Workshop](https://itclubpul
 
 ## Advanced-C-Workshop-2022
 
-⭐: 6
+⭐: 5
 
 **Repo for the Advanced C Workshop 2022.**
 
