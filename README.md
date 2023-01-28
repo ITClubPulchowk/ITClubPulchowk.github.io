@@ -111,7 +111,7 @@ Webpage: [https://itclubpulchowk.github.io/C-is-cute](https://itclubpulchowk.git
 
 ## C-Programming-Guide
 
-⭐: 26
+⭐: 27
 
 **A guide for C Programming from the perspective of a Pulchowk student (IOE).**
 
