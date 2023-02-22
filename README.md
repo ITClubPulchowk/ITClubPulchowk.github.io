@@ -144,7 +144,7 @@ Webpage: [https://itclubpulchowk.github.io/campus-scripts](https://itclubpulchow
 
 ## csvParser
 
-⭐: 0
+⭐: 1
 
 **A single header C library for parsing and deserializing CSV buffers**
 
