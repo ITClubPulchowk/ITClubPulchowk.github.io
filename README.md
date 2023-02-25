@@ -197,6 +197,17 @@ Repo: [https://github.com/ITClubPulchowk/laptop-guide](https://github.com/ITClub
 Webpage: [https://itclubpulchowk.github.io/laptop-guide](https://itclubpulchowk.github.io/laptop-guide)
 
 
+## msdocs-django-postgresql-sample-app
+
+⭐: 0
+
+**A sample Django app using PostgreSQL for the Azure App Service Web App + Database tutorial**
+
+Repo: [https://github.com/ITClubPulchowk/msdocs-django-postgresql-sample-app](https://github.com/ITClubPulchowk/msdocs-django-postgresql-sample-app)
+
+Webpage: [https://itclubpulchowk.github.io/msdocs-django-postgresql-sample-app](https://itclubpulchowk.github.io/msdocs-django-postgresql-sample-app)
+
+
 ## muda
 
 ⭐: 0
