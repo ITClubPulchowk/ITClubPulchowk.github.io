@@ -78,7 +78,7 @@ Webpage: [https://itclubpulchowk.github.io/077batch-project-list](https://itclub
 
 ## Advance-C-Workshop
 
-⭐: 12
+⭐: 11
 
 **  **
 
