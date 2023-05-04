@@ -76,6 +76,17 @@ Repo: [https://github.com/ITClubPulchowk/077batch-project-list](https://github.c
 Webpage: [https://itclubpulchowk.github.io/077batch-project-list](https://itclubpulchowk.github.io/077batch-project-list)
 
 
+## 078batch-project-list
+
+⭐: 0
+
+**  **
+
+Repo: [https://github.com/ITClubPulchowk/078batch-project-list](https://github.com/ITClubPulchowk/078batch-project-list)
+
+Webpage: [https://itclubpulchowk.github.io/078batch-project-list](https://itclubpulchowk.github.io/078batch-project-list)
+
+
 ## Advance-C-Workshop
 
 ⭐: 11
