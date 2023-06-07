@@ -45,7 +45,7 @@ Webpage: [https://itclubpulchowk.github.io/074batch-project-list](https://itclub
 
 ## 075batch-project-list
 
-⭐: 20
+⭐: 21
 
 **List of college projects by undergraduates from 075 Batch, Pulchowk Campus.**
 
