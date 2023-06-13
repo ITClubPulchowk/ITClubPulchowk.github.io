@@ -23,7 +23,7 @@ Twitter: [@ITClubPulchowk](https://twitter.com/ITClubPulchowk)
 
 ## 073batch-project-list
 
-⭐: 6
+⭐: 7
 
 **List of college projects by undergraduates from 073 Batch, Pulchowk Campus.**
 
@@ -67,7 +67,7 @@ Webpage: [https://itclubpulchowk.github.io/076batch-project-list](https://itclub
 
 ## 077batch-project-list
 
-⭐: 3
+⭐: 4
 
 **List of college projects by undergraduates from 077 Batch, Pulchowk Campus.**
 
