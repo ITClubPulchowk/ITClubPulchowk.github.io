@@ -67,7 +67,7 @@ Webpage: [https://itclubpulchowk.github.io/076batch-project-list](https://itclub
 
 ## 077batch-project-list
 
-⭐: 4
+⭐: 5
 
 **List of college projects by undergraduates from 077 Batch, Pulchowk Campus.**
 
@@ -232,7 +232,7 @@ Webpage: [https://itclubpulchowk.github.io/muda](https://itclubpulchowk.github.i
 
 ## resourcehub
 
-⭐: 3
+⭐: 5
 
 **Collection of useful resources.**
 
