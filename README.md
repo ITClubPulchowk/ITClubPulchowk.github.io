@@ -164,6 +164,17 @@ Repo: [https://github.com/ITClubPulchowk/csvParser](https://github.com/ITClubPul
 Webpage: [https://itclubpulchowk.github.io/csvParser](https://itclubpulchowk.github.io/csvParser)
 
 
+## Git-2023Assignments
+
+⭐: 0
+
+**  **
+
+Repo: [https://github.com/ITClubPulchowk/Git-2023Assignments](https://github.com/ITClubPulchowk/Git-2023Assignments)
+
+Webpage: [https://itclubpulchowk.github.io/Git-2023Assignments](https://itclubpulchowk.github.io/Git-2023Assignments)
+
+
 ## Git-Workshop
 
 ⭐: 7
@@ -184,6 +195,17 @@ Webpage: [https://itclubpulchowk.github.io/Git-Workshop](https://itclubpulchowk.
 Repo: [https://github.com/ITClubPulchowk/Git-Workshop-2022](https://github.com/ITClubPulchowk/Git-Workshop-2022)
 
 Webpage: [https://itclubpulchowk.github.io/Git-Workshop-2022](https://itclubpulchowk.github.io/Git-Workshop-2022)
+
+
+## Git-Workshop-2023
+
+⭐: 0
+
+**A repository for Git Workshop 2023**
+
+Repo: [https://github.com/ITClubPulchowk/Git-Workshop-2023](https://github.com/ITClubPulchowk/Git-Workshop-2023)
+
+Webpage: [https://itclubpulchowk.github.io/Git-Workshop-2023](https://itclubpulchowk.github.io/Git-Workshop-2023)
 
 
 ## Hikana
