@@ -164,15 +164,15 @@ Repo: [https://github.com/ITClubPulchowk/csvParser](https://github.com/ITClubPul
 Webpage: [https://itclubpulchowk.github.io/csvParser](https://itclubpulchowk.github.io/csvParser)
 
 
-## Git-2023Assignments
+## First-Contribution
 
 ⭐: 0
 
 **  **
 
-Repo: [https://github.com/ITClubPulchowk/Git-2023Assignments](https://github.com/ITClubPulchowk/Git-2023Assignments)
+Repo: [https://github.com/ITClubPulchowk/First-Contribution](https://github.com/ITClubPulchowk/First-Contribution)
 
-Webpage: [https://itclubpulchowk.github.io/Git-2023Assignments](https://itclubpulchowk.github.io/Git-2023Assignments)
+Webpage: [https://itclubpulchowk.github.io/First-Contribution](https://itclubpulchowk.github.io/First-Contribution)
 
 
 ## Git-Workshop
