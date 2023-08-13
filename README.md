@@ -87,6 +87,17 @@ Repo: [https://github.com/ITClubPulchowk/078batch-project-list](https://github.c
 Webpage: [https://itclubpulchowk.github.io/078batch-project-list](https://itclubpulchowk.github.io/078batch-project-list)
 
 
+## 079batch-project-list
+
+⭐: 0
+
+**List of college projects by undergraduates from 079 Batch, Pulchowk Campus.**
+
+Repo: [https://github.com/ITClubPulchowk/079batch-project-list](https://github.com/ITClubPulchowk/079batch-project-list)
+
+Webpage: [https://itclubpulchowk.github.io/079batch-project-list](https://itclubpulchowk.github.io/079batch-project-list)
+
+
 ## Advance-C-Workshop
 
 ⭐: 11
